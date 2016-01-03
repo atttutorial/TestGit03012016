@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ABHISSIK" name="com.hello.HelloWorldTest" tests="1" failures="0" timestamp="3 Jan 2016 15:04:26 GMT" time="14.34" errors="0">
+  <testcase name="main" time="14.322" classname="com.hello.HelloWorldTest"/>
+</testsuite>
